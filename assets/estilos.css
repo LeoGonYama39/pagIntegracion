@@ -33,8 +33,9 @@ header {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: xx-large;
   font-weight: bolder;
-  color: #000000;
+  color: #ffffff; /* texto blanco para contraste */
   text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* sombra suave y visible */
 }
 
 /*Caja con las opciones, ocupa 10%, ordena en horizontal*/
